@@ -1,0 +1,15 @@
+.city-page{
+    text-align: center;
+}
+
+.city-page__chart{
+    margin: 1rem auto 3rem auto;
+}
+
+.city-page__go-back{
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+    background-color: #3c43a7;
+    color: #6cbf84;
+    border: none;
+}

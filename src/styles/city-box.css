@@ -1,0 +1,27 @@
+.city-box{
+    width: 25rem;
+    margin: 4rem auto;
+    padding: 1rem 2rem;
+    border: 2px solid rgb(197, 190, 190);
+    display: flex;
+}
+
+.city-box__info{
+    width: 90%;
+}
+
+.city-box__info-header{
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+}
+
+.city-box__info-weather{
+    margin-bottom: 2.5rem;
+    line-height: 0.25rem;
+}
+
+.city-box__remove-button{
+    font-size: 3rem;
+    border: none;
+    background: none;
+}
